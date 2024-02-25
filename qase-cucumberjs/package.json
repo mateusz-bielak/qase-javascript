@@ -58,6 +58,6 @@
     "mime-types": "^2.1.35",
     "moment": "^2.29.1",
     "qaseio": "^2.0.2",
-    "read-chunk": "^4.0.2"
+    "read-chunk": "^4.0.3"
   }
 }
