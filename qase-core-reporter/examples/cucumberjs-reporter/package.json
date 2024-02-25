@@ -49,7 +49,7 @@
     "chalk": "^4.1.0",
     "file-type": "^17.1.1",
     "mime-types": "^2.1.35",
-    "moment": "^2.29.1",
+    "moment": "^2.30.1",
     "qase-core-reporter": "../../",
     "qaseio": "^2.0.1",
     "read-chunk": "^4.0.2"
